@@ -1,0 +1,7 @@
+*.swp
+hsh
+a.out
+.vscode
+.json
+
+.simple_shell_history
